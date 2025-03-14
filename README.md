@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jaloliddin</h1>
-<h3 align="center">A passionate Full Stack developer from Uzbekistan</h3>
+<h3>A passionate Full Stack developer from Uzbekistan</h3>
 
 - 💬 Ask me about **JavaScript (ES6+), TypeScript, NodeJS, ExpressJS, NestJS, MongoDB, Mongoose, PostgreSQL, Sequelize, Prisma, API /Rest-API, JWT, Authentication and RBAS, Git/Github, HTML, CSS, SCSS, React**
 
