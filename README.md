@@ -1,8 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/47681139/205421822-7bf7ff45-81fd-40a0-91e2-1327e196c723.png)
-<h1 align="center">Hi 👋, I'm Jaloliddin</h1>
+<h1>Hi, I'm Jaloliddin</h1>
 <h3 align="center">A passionate Full Stack developer from Uzbekistan</h3>
-
-- 📝 I regularly write articles on [t.me/bakhadirov25](https://t.me/bakhadirov25)
 
 - 💬 Ask me about **JavaScript (ES6+), TypeScript, NodeJS, ExpressJS, NestJS, MongoDB, Mongoose, PostgreSQL, Sequelize, Prisma, API /Rest-API, JWT, Authentication and RBAS, Git/Github, HTML, CSS, SCSS, React**
 
